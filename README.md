@@ -12,10 +12,10 @@ Makine mühendisiyim. Bu blogda hem **teknoloji** hem de **kişisel gelişim** �
 ---
 
 ## 📝 Son Yazılar  
-- [İlk yazım: Neden blog yazmaya başladım?](posts/ilk-yazim.md)  
-- [Makine mühendisliğinde teknoloji trendleri](posts/trendler.md)  
+- [Dizel Jeneratörler: Çalışma Prensibi ve Kullanım Alanları](posts/dizel-jeneratorler.md)  
 
 ---
 
 ## 📬 İletişim  
-Bana [GitHub](https://github.com/ErolKilicME) üzerinden ulaşabilirsiniz.  
+- [GitHub](https://github.com/ErolKilicME)  
+- [LinkedIn](https://www.linkedin.com/in/erolkilic/)  
