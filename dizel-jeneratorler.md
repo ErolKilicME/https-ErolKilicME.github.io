@@ -1,0 +1,3 @@
+# Dizel Jeneratörler: Çalışma Prensibi ve Kullanım Alanları
+
+Dizel jeneratörler, elektrik enerjisini üretmek için dizel motor ve alternatörden oluşan sistemlerdir...
